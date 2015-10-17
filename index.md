@@ -28,5 +28,4 @@ Note: Γενικά μην αγχώνεστε με την επεξεργασία.
 Ιωάννης Πρωτονοτάριος
 Οκτώβριος 2015
 
-[gimmick:FacebookLike](http://protonotarios.github.io/proto-site)
-.
+[gimmick:FacebookLike](http://protonotarios.github.io/proto-site/)
