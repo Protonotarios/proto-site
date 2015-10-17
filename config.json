@@ -1,4 +1,5 @@
 {
 "title": "proto-site",
-"additionalFooterText": "&copy; Το όνομά σας - Template <a href='https://github.com/Protonotarios/proto-site'>proto-site</a> by Protonotarios - "
+"additionalFooterText": "&copy; Το όνομά σας - Template <a href='https://github.com/Protonotarios/proto-site'>proto-site</a> by Protonotarios - ",
+"anchorCharacter": "&#128279;"
 }
