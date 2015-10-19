@@ -151,7 +151,7 @@ Warning: **Αυτή η ενέργεια είναι για προχωρημένο
 
 ![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/bootstrap.png "bootstrap - Το προεπιλεγμένο θέμα - Δεν χρειάζεται να το ορίσουμε")
 ![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/amelia.png "amelia")
-![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cerulian.png "cerulian")
+![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cerulian.png "cerulean")
 ![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cosmo.png "cosmo")
 ![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/cyborg.png "cyborg")
 ![](https://raw.githubusercontent.com/Protonotarios/protonotarios.github.io/master/proto-site/advanced/themes/flatly.png "flatly")
